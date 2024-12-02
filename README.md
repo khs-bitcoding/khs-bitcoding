@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @khs-bitcoding
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask,js,jquery,redis,postman,postgres,mongodb,mysql,html,css )](https://skillicons.dev)
